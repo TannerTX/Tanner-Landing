@@ -36,6 +36,14 @@
 
 ![Jinja](https://img.shields.io/badge/Jinja-%233E863D?style=for-the-badge)
 
+## Database Systems
+![SQL](https://img.shields.io/badge/SQL-%23FFD700?style=for-the-badge&logo=sql&logoColor=%23FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=%23FFFFFF)
+![HiveQL](https://img.shields.io/badge/HiveQL-%23FDEE21?style=for-the-badge)
+
+![Snowflake](https://img.shields.io/badge/Snowflake-%2300BFFF?style=for-the-badge&logo=snowflake&logoColor=%23FFFFFF)
+![HDFS](https://img.shields.io/badge/HDFS-%23FF5722?style=for-the-badge&logo=hadoop&logoColor=%23FFFFFF)
+
 ## Scripting
 ![Bash](https://img.shields.io/badge/Bash-%2320232a?style=for-the-badge&logo=gnu-bash&logoColor=%23FFFFFF)
 
@@ -45,13 +53,6 @@
 ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=%23FFFFFF)
 ![GitHub](https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=%23FFFFFF)
 
-## Database Management
-![SQL](https://img.shields.io/badge/SQL-%23FFD700?style=for-the-badge&logo=sql&logoColor=%23FFFFFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=%23FFFFFF)
-![HiveQL](https://img.shields.io/badge/HiveQL-%23FDEE21?style=for-the-badge)
-
-![Snowflake](https://img.shields.io/badge/Snowflake-%2300BFFF?style=for-the-badge&logo=snowflake&logoColor=%23FFFFFF)
-![HDFS](https://img.shields.io/badge/HDFS-%23FF5722?style=for-the-badge&logo=hadoop&logoColor=%23FFFFFF)
 
 
 
