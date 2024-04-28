@@ -36,7 +36,7 @@
 
 ![Jinja](https://img.shields.io/badge/Jinja-%233E863D?style=for-the-badge)
 
-## Database Systems
+## Database/Warehousing/File Systems
 ![SQL](https://img.shields.io/badge/SQL-%23FFD700?style=for-the-badge&logo=sql&logoColor=%23FFFFFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=%23FFFFFF)
 ![HiveQL](https://img.shields.io/badge/HiveQL-%23FDEE21?style=for-the-badge)
